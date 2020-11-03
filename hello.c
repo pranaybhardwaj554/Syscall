@@ -1,5 +1,5 @@
-/* Name: Pranay Bhardwaj
-   Roll_Number: 2019263 */
+//Name: Pranay Bhardwaj
+
 #include <sys/dir.h>
 #include <stdio.h>
 #include <linux/kernel.h>
